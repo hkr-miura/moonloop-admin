@@ -93,3 +93,5 @@ Vercelへのデプロイ手順については、[DEPLOY.md](./DEPLOY.md) を参�
 
 ---
 © Miyahara & Team Antigravity
+
+<- Deployment Fix: Force directory update -->
